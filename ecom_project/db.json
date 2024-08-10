@@ -1,0 +1,34 @@
+{
+  "seller": [
+    {
+      "id": "3cec",
+      "name": "Anand Kumar",
+      "email": "anand@gmail.com",
+      "password": "abc@gmail.com"
+    },
+    {
+      "id": "a714",
+      "name": "Amit Kumar",
+      "email": "amit@gmail.com",
+      "password": "bca@gmail.com"
+    },
+    {
+      "id": "18cc",
+      "name": "juli",
+      "password": "juli@an",
+      "email": "juli@gmail.coim"
+    },
+    {
+      "id": "0a94",
+      "name": "peter",
+      "password": "peter@123",
+      "email": "peter@test.com"
+    },
+    {
+      "id": "ee64",
+      "name": "bruce",
+      "password": "brauc@!23",
+      "email": "bruce@test.com"
+    }
+  ]
+}
